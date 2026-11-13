@@ -1,4 +1,4 @@
-package com.caj-ds-project.app;
+package com.cajdsproject.app;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 

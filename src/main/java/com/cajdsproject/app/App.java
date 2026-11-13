@@ -1,4 +1,4 @@
-package com.caj-ds-project.app;
+package com.cajdsproject.app;
 
 /**
  * Hello world!
